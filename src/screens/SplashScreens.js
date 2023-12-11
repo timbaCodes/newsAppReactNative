@@ -38,7 +38,7 @@ export default function SplashScreens() {
       className="flex-1 bg-orange-800 justify-center items-center"
     >
       <Text className="text-white text-3xl font-extrabold uppercase">
-        Stacks
+        Stacks news
       </Text>
     </View>
   );
